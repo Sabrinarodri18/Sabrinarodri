@@ -6,8 +6,9 @@
  • ☄️ Atualmente estou estudando HTML, CSS e JS.
  
  •🌱 Busco me aperfeiçoar na área de FrontEnd!
- 
- 
+
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Sabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sabri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
