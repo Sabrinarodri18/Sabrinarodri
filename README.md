@@ -6,6 +6,11 @@
  • ☄️ Atualmente estou estudando HTML, CSS e JS.
  
  •🌱 Busco me aperfeiçoar na área de FrontEnd!
+ 
+ ##
+ 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1099&pause=1099&color=70279C&width=500&height=80&lines=Seja+bem+vindo+ao+meu+GitHub+(%3A" alt="Typing SVG" /></a>
+
 
 ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
